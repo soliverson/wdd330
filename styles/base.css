@@ -13,12 +13,12 @@ font-family: 'Roboto', sans-serif;
 max-width: 1000px;
 margin: 0 auto;
 font-size: 1.5rem;
-color: black
+color: black;
 }
 
 .background-color{
-    background-color: #d9acb4;
-    color: black;
+    background-color: #540b0e;
+    color: #fff3b0;
 }
 
 .card{
@@ -34,7 +34,7 @@ h1{
     font-family: 'Roboto', sans-serif;
     padding: .5rem;
     font-size: 3rem;
-    color: black;
+    color: #fff3b0;
 }
 
 
